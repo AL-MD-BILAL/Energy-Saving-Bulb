@@ -45,7 +45,7 @@ The Hardware required for working of the code include
 ```
 
 ## Circuit Diagram
-![Circuit Diagram]([https://www.electronicwings.com/storage/PlatformSection/TopicContent/486/description/MAX30100%20Interfacing%20with%20NodeMCU(0).png](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2016/11/Schematics.png?resize=700,466&quality=100&strip=all&ssl=1))
+![Circuit Diagram](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2016/11/Schematics.png)
 
 
 ## Usage
