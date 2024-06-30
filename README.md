@@ -41,6 +41,7 @@ The Hardware required for working of the code include
 - Passive Infrared sensor
 - 5V Relay Module
 - AC Bulb
+- Breadboard
 - Jumper Wires
 ```
 
