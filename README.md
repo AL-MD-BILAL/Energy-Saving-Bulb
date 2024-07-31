@@ -27,7 +27,7 @@ Type or copy the below code in your terminal to pull the repo files to your comp
 
 ```bash
 # Clone the repository
-git clone https://github.com/AL-MD-BILAL/Energy-Saving-Bulb.git
+git clone https://github.com/al-mohamed-bilal/Energy-Saving-Bulb.git
 
 # Change directory to the Energy-Saving-Bulb directory
 cd Energy-Saving-Bulb
